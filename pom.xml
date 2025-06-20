@@ -69,6 +69,7 @@
                     </compilerArgs>
                     <verbose>true</verbose>
                     <fork>true</fork>
+                    <!--suppress UnresolvedMavenProperty -->
                     <executable>${JAVA_11_HOME}/bin/javac</executable>
                 </configuration>
             </plugin>
